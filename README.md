@@ -4,9 +4,8 @@
 
 Pedro Daher
 
-Sprint 1: Terrain, Player Controller
-
-21/05/2021
+21/05/2021 Sprint 1: Terrain, Player Controller
+28/05/2021 Sprint 2: Menu, Pause, Audio, Flashlight, Sprint, Enemy
 
 **Identidade do jogo (Conceito)**
 
@@ -26,7 +25,7 @@ Arte em 3D, simulação do mundo real.
 
 **Música/Trilha Sonora**
 
-Ainda não implementado
+Musica de terro no fundo
 
 **Interface**
 
@@ -42,7 +41,7 @@ A dificuldade é tentar achar as 8 cartas sem que o inimigo te alcance.
 
 **Fluxo do jogo**
 
-O jogo é corrido, não possui níveis. Telas de MENU, GAME, PAUSE e ENDGAME (ainda não implementadas)
+O jogo é corrido, não possui níveis. Telas de MENU, GAME, PAUSE e ENDGAME
 
 **Personagens**
 
@@ -54,7 +53,7 @@ Slender: inimigo
 
 Sprint 1: Fazer os movimentos do jogador e o terreno do jogo
 
-Sprint 2:
+Sprint 2: Menu, Pause, Audio, Flashlight, Sprint, Enemy
 
 **Definições gerais**
 
