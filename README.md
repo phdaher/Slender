@@ -5,6 +5,7 @@
 Pedro Daher
 
 21/05/2021 Sprint 1: Terrain, Player Controller
+
 28/05/2021 Sprint 2: Menu, Pause, Audio, Flashlight, Sprint, Enemy
 
 **Identidade do jogo (Conceito)**
