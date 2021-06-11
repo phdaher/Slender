@@ -8,6 +8,10 @@ Pedro Daher
 
 28/05/2021 Sprint 2: Menu, Pause, Audio, Flashlight, Sprint, Enemy
 
+04/06/2021 Sprint 3: Inimigo mais bem elaborado, jogo já funcional com todas as telas e cartas.
+
+10/06/2021 Entrega Final: Jogo completo
+
 **Identidade do jogo (Conceito)**
 
 Você está cercado em uma área, ainda não é muito claro o que deve ser feito, você tem apenas uma lanterna em mãos. Dê uma olhada ao seu redor e veja se consegue achar algumas pistas para te ajudar, mas tome cuidado para não achar algo indesejado...
@@ -34,11 +38,11 @@ O jogador é controlável, para as interações que ele tem com o mundo externo,
 
 **Controles**
 
-Setinhas para se locomover, mouse para o movimento da câmera e barra de espaço para ligar a lanterna (ainda não implementado).
+Setinhas para se locomover, mouse para o movimento da câmera, tecla F para ligar a laterna e barra de espaço para correr
 
 **Dificuldade**
 
-A dificuldade é tentar achar as 8 cartas sem que o inimigo te alcance.
+A dificuldade é tentar achar as 5 cartas sem ser capturado pelo Slender.
 
 **Fluxo do jogo**
 
@@ -55,6 +59,10 @@ Slender: inimigo
 Sprint 1: Fazer os movimentos do jogador e o terreno do jogo
 
 Sprint 2: Menu, Pause, Audio, Flashlight, Sprint, Enemy
+
+Sprint 3: Jogo já funcional, com alguns detalhes a serem implementados
+
+Sprint 4: Jogo completo
 
 **Definições gerais**
 
